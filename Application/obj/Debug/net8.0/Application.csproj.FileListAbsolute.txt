@@ -1,0 +1,12 @@
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\bin\Debug\net8.0\Application.dll
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\obj\Debug\net8.0\Application.dll
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\domin\Documents\UserManagmentWithJWT\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
