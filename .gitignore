@@ -1,0 +1,119 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Core files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/bin
+**/obj
+**/out
+# Uncomment if you have tasks that create the publish folder
+# publish/
+
+# Docker
+*.container
+*.localDocker
+**/.vsdocker
+**/.vscode
+.docker/
+
+# Temporary files
+*.swp
+*~.*
+~$
+
+# JetBrains Rider
+.idea/
+
+# Rider Directories
+.idea/
+.idea/*
+
+# Rider files
+*.iws
+.idea/
+.idea/**
+
+# Rider directories
+.idea/
+.idea_modules/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/bin
+**/obj
+**/out
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Local History for Visual Studio
+.vs/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.toptal.com/developers/gitignore/api/aspnetcore
